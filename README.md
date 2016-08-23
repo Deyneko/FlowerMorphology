@@ -9,4 +9,5 @@
 Please download and unzip:
 <br>&nbsp;&nbsp;&nbsp; -FlowerMorphology.zip if you have Windows 7 or higher
 <br>&nbsp;&nbsp;&nbsp; -FlowerMorphologyWinXP.zip if you have Windows XP.
+<br>Read "read.me" file. 
 <br>Run FlowerMorph.exe
