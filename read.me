@@ -1,0 +1,20 @@
+Things one should know to run FlowerMorphology
+
+- FlowerMorphology requires a video camera with resolution 1280x1024 or higher. The program will automatically crop 
+the central part of the image to a size of 640x512. This eliminates linear aberrations that are most pronounced 
+on image corners. 
+
+- Before the first run the program must be calibrated. 
+To do this please photograph a ruler and divide number of visible millimeters by 640 (ruler is horizontal) 
+or  512 (ruler is vertical). Write this value into the file "metric".
+
+- How to create a contour file. 
+The program can use two external contours and one contour for flower tube. To create contour files put 
+your example flower under a camera, check on a display if contours are detected correctly and press "w" to save 
+external contour and "c" to save contour of a flower tube. Press "Esc" and "Enter" to repeat contour selection 
+procedure, to reposition a flower or to use another flower. External contour is saved into file "RContour3.xml". 
+To use this file rename it to "RContour1.xml" or "RContour2.xml". Contour of a flower tube is saved 
+in "RCContour.xml" and do not require renaming.
+
+- Example of lighting installation is presented on "InstallationExample.jpg"
+
