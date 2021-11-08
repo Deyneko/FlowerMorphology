@@ -11,3 +11,7 @@ Please download and unzip:
 <br>&nbsp;&nbsp;&nbsp; -FlowerMorphologyWinXP.zip if you have Windows XP.
 <br>Read "read.me" file. 
 <br>Run FlowerMorph.exe
+
+  
+  Note: if you find FloweMorphology usefull, please site: 
+  Rozov SM, Deineko EV, Deyneko IV. FlowerMorphology: fully automatic flower morphometry software. Planta. 2018 May;247(5):1163-1173. doi: 10.1007/s00425-018-2856-3. Epub 2018 Feb 2. PMID: 29392396. https://pubmed.ncbi.nlm.nih.gov/29392396/
